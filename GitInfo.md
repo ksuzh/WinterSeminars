@@ -22,6 +22,9 @@
 
 * *git checkout branch_name* - переход на ветку *branch_name*
 
+* *git merge branch_name* - слияние текущей ветки с указанной
+
+* *git branch -d branch_name* - удаление указанной ветки
 
 ## Работа с удаленным репозиторием
 
